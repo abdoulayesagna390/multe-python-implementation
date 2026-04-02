@@ -1,6 +1,5 @@
 # multe-python-implementation
 Python implementation for analyzing contamination bias in multiple treatment regressions, inspired by the R package multe.
-# Multe-Python
 
 
 
@@ -150,11 +149,10 @@ Mémoire de Master :
 ---
 
 ##  Perspectives d’amélioration
-
+* Optimisation des performances
 * Transformation en package Python installable (`pip install`)
 * Ajout de notebooks explicatifs
-* Optimisation des performances
-* Extension à d’autres cadres d’inférence causale
+
 
 ---
 
@@ -164,10 +162,4 @@ Ce projet est destiné à un usage académique et de recherche.
 
 ---
 
-##  Remerciements
 
-* Inspiré du package R *multe*
-* Basé sur la littérature récente en économétrie
-* Remerciements à mon encadrant pour son accompagnement
-
----
